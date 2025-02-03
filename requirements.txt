@@ -40,7 +40,7 @@ Twisted==24.11.0
 txaio==23.1.1
 typing_extensions==4.12.1
 tzdata==2024.1
-uvicorn==0.30.3
+uvicorn==0.34.0
 uvloop==0.19.0
 watchfiles==0.22.0
 websockets==12.0
